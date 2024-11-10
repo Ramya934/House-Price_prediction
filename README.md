@@ -1,7 +1,9 @@
 # House-Price_prediction
+
 This project focuses on predicting house prices using machine learning techniques. Based on various features like square footage, number of bedrooms and bathrooms, house age, and location quality, the model aims to accurately estimate house prices. The project is intended to demonstrate data preprocessing, feature engineering, and the application of regression algorithms for price prediction.
 
 **Project Overview**
+
 House price prediction is a common use case in the real estate industry, where accurate predictions can help buyers, sellers, and investors make informed decisions. 
 In this project:
 
@@ -11,6 +13,7 @@ Machine learning algorithms, including Linear Regression and Decision Tree Regre
 The model with the lowest MSE is recommended for making predictions.
 
 **Features**
+
 The dataset includes the following features:
   square_footage: The total square footage of the house.
   num_bedrooms: Number of bedrooms in the house.
@@ -20,5 +23,6 @@ The dataset includes the following features:
   price: The target variable, representing the actual price of the house.
  
 **Prerequisites**
+
   Python 3.x
   Libraries: pandas, numpy, scikit-learn
