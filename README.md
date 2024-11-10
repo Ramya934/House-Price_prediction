@@ -1,4 +1,4 @@
-# House-Price_prediction
+# House-Price-Prediction
 
 This project focuses on predicting house prices using machine learning techniques. Based on various features like square footage, number of bedrooms and bathrooms, house age, and location quality, the model aims to accurately estimate house prices. The project is intended to demonstrate data preprocessing, feature engineering, and the application of regression algorithms for price prediction.
 
